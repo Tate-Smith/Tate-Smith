@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I’m Tate Smith</h1>
 <h3 align="center">
-Backend & systems-focused CS student building production-grade services, networking tools, and simulations
+Backend & systems-focused CS student interested in building reliable, scalable backend services and infrastructure
 </h3>
 
-• Building backend services with <b>Spring Boot</b>, containerized with <b>Docker</b>, and targeting <b>Kubernetes</b> deployment  
+• Learning backend services with <b>Spring Boot</b>, containerized with <b>Docker</b>, and learning modern deployment workflows  
 • Projects: <a href="https://github.com/Tate-Smith">github.com/Tate-Smith</a>  
 • Contact: <a href="mailto:tatelansing@gmail.com">tatelansing@gmail.com</a>
 
@@ -24,3 +24,8 @@ Backend & systems-focused CS student building production-grade services, network
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/>
 </p>
+
+<h3 align="left">Selected Projects & Work</h3>
+
+• Multithreaded N-body gravity simulation (numerical integration, performance-focused design)  
+• Backend-focused projects exploring APIs, persistence, and systems concepts
