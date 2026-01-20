@@ -27,5 +27,5 @@ Backend & systems-focused CS student interested in building reliable, scalable b
 
 <h3 align="left">Selected Projects & Work</h3>
 
-• Multithreaded N-body gravity simulation (numerical integration, performance-focused design)  
-• Backend-focused projects exploring APIs, persistence, and systems concepts
+• N-body gravity simulation (numerical integration, performance-focused design)  
+• Backend-focused projects exploring APIs, and systems concepts
