@@ -34,5 +34,3 @@ I build software for mission-scale applications. My focus is right now is **dist
 *High-performance numerical integration for deterministic physics.*
 - **Key Focus:** Orbital mechanics and performance-focused design.
 - **Application:** Deep-space system modeling.
-
-![Tate's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tate-Smith&show_icons=true&theme=transparent)
