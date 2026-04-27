@@ -17,27 +17,25 @@ CS student focused on space systems, simulation, and infrastructure for mission-
 
 <h3 align="left">Languages & Tools</h3>
 <p align="left">
-  <span>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/>
-  </span>
+  <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img style="display:inline-block;" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+  <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img style="display:inline-block;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img style="display:inline-block;"src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Selected Projects & Work</h3>
+<h3 align="left">Projects: /h3>
 
-• Satellite Constellation Simulation (C++) — <b>Flagship Project</b>  
+• Satellite Constellation Simulation —
   – Models a distributed satellite network with inter-satellite communication  
   – Focus on message passing, concurrency, and system reliability  
   – Simulates large-scale behavior of satellite constellations and ground interaction  
   – Designed with performance and scalability in mind  
 
-• N-body gravity simulation (Java) 
+• N-body gravity simulation
   – Numerical integration, deterministic physics modeling  
   – Performance-focused design for large-body simulations  
   – Applicable to orbital mechanics and system modeling  
