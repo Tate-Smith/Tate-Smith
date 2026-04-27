@@ -27,15 +27,17 @@ CS student focused on space systems, simulation, and infrastructure for mission-
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/>
 </div>
 
-<h3 align="left">Projects: /h3>
+<h3 align="left">Projects: </h3>
 
-• Satellite Constellation Simulation —
+• Satellite Constellation Simulation
+
   – Models a distributed satellite network with inter-satellite communication  
   – Focus on message passing, concurrency, and system reliability  
   – Simulates large-scale behavior of satellite constellations and ground interaction  
   – Designed with performance and scalability in mind  
 
 • N-body gravity simulation
+
   – Numerical integration, deterministic physics modeling  
   – Performance-focused design for large-body simulations  
   – Applicable to orbital mechanics and system modeling  
