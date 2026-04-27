@@ -1,43 +1,34 @@
-<h1 align="center">Hi 👋, I’m Tate Smith</h1>
-<h3 align="center">
-CS student focused on space systems, simulation, and infrastructure for mission-scale applications
-</h3>
+# Hi 👋, I’m Tate Smith
+### CS Student | Space Systems | Simulation | Infrastructure 
 
-• Building software for space-relevant systems: simulation, distributed systems, and mission data handling  
-• Focused on ground infrastructure, modeling, and large-scale system behavior  
-• Projects: <a href="https://github.com/Tate-Smith">github.com/Tate-Smith</a>  
-• Contact: <a href="mailto:tatelansing@gmail.com">tatelansing@gmail.com</a>
+---
 
-<h3 align="left">Connect with me</h3>
+### 🛰️ About Me
+I build software for mission-scale applications. My focus is right now is **distributed systems**, specifically ground infrastructure and large-scale system behavior.
+
+- 🔭 **Current Project:** a Satellite Constellation Simulation.
+- 📫 **Contact:** [tatelansing@gmail.com](mailto:tatelansing@gmail.com)
+- 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/tate-smith-b1a973264)
+
+### 🛠 Tech Stack
 <p align="left">
-  <a href="https://www.linkedin.com/in/tate-smith-b1a973264" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40" alt="Unity"/>
 </p>
 
-<h3 align="left">Languages & Tools</h3>
-<div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/>
-</div>
+### 🏗 Featured Projects
 
-<h3 align="left">Projects: </h3>
+#### 🛰 [Satellite Constellation Simulation](https://github.com/Tate-Smith/Satellite_Constellation)
+*Models a distributed satellite network with inter-satellite communication.*
+- **Key Focus:** Concurrency, message passing, and system reliability.
+- **Goal:** Simulating large-scale behavior and ground-station interaction.
 
-• Satellite Constellation Simulation
+#### 🌌 [N-Body Gravity Simulation](https://github.com/Tate-Smith/N-Body-simulation)
+*High-performance numerical integration for deterministic physics.*
+- **Key Focus:** Orbital mechanics and performance-focused design.
+- **Application:** Deep-space system modeling.
 
-  – Models a distributed satellite network with inter-satellite communication  
-  – Focus on message passing, concurrency, and system reliability  
-  – Simulates large-scale behavior of satellite constellations and ground interaction  
-  – Designed with performance and scalability in mind  
-
-• N-body gravity simulation
-
-  – Numerical integration, deterministic physics modeling  
-  – Performance-focused design for large-body simulations  
-  – Applicable to orbital mechanics and system modeling  
+![Tate's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tate-Smith&show_icons=true&theme=transparent)
