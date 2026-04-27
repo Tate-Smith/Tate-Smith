@@ -16,13 +16,17 @@ I build software for mission-scale applications. My focus is right now is **dist
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40" alt="Unity"/>
 </p>
 
 ### 🏗 Featured Projects
 
 #### 🛰 [Satellite Constellation Simulation](https://github.com/Tate-Smith/Satellite_Constellation)
-*Models a distributed satellite network with inter-satellite communication.*
+*Event-driven satellite network simulator with inter-satellite messaging, concurrency control, and ground station scheduling logic.*
 - **Key Focus:** Concurrency, message passing, and system reliability.
 - **Goal:** Simulating large-scale behavior and ground-station interaction.
 
