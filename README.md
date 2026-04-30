@@ -25,10 +25,11 @@ I build software for mission-scale applications. My focus is right now is **dist
 
 ### 🏗 Featured Projects
 
-#### 🛰 [Satellite Constellation Simulation](https://github.com/Tate-Smith/Satellite_Constellation)
-*Event-driven satellite network simulator with inter-satellite messaging, concurrency control, and ground station scheduling logic.*
-- **Key Focus:** Concurrency, message passing, and system reliability.
-- **Goal:** Simulating large-scale behavior and ground-station interaction.
+### 🛰 [Satellite Constellation Simulation](https://github.com/Tate-Smith/Satellite_Constellation)
+Fault-tolerant distributed system in C++ simulating a satellite constellation with UDP networking, a custom binary messaging protocol, heartbeat-based failure detection, and automatic reconnection logic.
+
+- **Stack:** C++, UDP sockets, POSIX threads
+- **Highlights:** Custom serialization protocol, multi-threaded satellites and ground control station, real-time telemetry pipeline
 
 #### 🌌 [N-Body Gravity Simulation](https://github.com/Tate-Smith/N-Body-simulation)
 *High-performance numerical integration for deterministic physics.*
