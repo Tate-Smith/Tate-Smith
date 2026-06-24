@@ -4,7 +4,7 @@
 ### 🛰️ About Me
 I build software for mission-scale problems. My current focus is **distributed systems** — specifically ground infrastructure, fault tolerance, and large-scale system behavior.
 
-- 🔭 **Current Project:** Satellite Constellation Simulation
+- 🔭 **Current Project:** Learning Machine/Deep Learning with PyTorch
 - 📫 **Contact:** [tatelansing@gmail.com](mailto:tatelansing@gmail.com)
 - 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/tate-smith-b1a973264)
 
